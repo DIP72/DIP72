@@ -1,5 +1,3 @@
-[![An image of @dip72's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dip72)](https://holopin.io/@dip72)
-
 # 💫 About Me:
 👋 Hey there, I’m Dipanjan!<br><br>🚀 Computer Science & Engineering student | Passionate Coder<br><br>💡 I believe in hard work, lifelong learning, and creating technology that makes life smarter and simpler.
 
