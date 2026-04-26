@@ -62,13 +62,6 @@
   <a href="https://www.unrealengine.com/"><img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine" /></a>
 </p>
 
-<h2 align="center">📌 Featured Projects</h2>
-<p align="center"><i>Add your best 2-4 projects here with links.</i></p>
-<p align="center">
-  <b>Project Name 1</b> - One-line value proposition. <a href="https://github.com/DIP72">Repo</a><br/>
-  <b>Project Name 2</b> - One-line value proposition. <a href="https://github.com/DIP72">Repo</a><br/>
-  <b>Project Name 3</b> - One-line value proposition. <a href="https://github.com/DIP72">Repo</a>
-</p>
 
 <h2 align="center">🏆 Achievements and Badges</h2>
 <p align="center">
