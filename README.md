@@ -77,17 +77,30 @@
 </p>
 
 <h3 align="center">🌸 GirlScript Summer of Code (GSSoC)</h3>
-<p align="center">
-  <img src="./Badges/Girl_Script_Summer_Of_Code_Badges/open.png" alt="GSSoC Open Source Badge" width="140" />
-  <img src="./Badges/Girl_Script_Summer_Of_Code_Badges/ai.png" alt="GSSoC AI Badge" width="140" />
-  <img src="./Badges/Girl_Script_Summer_Of_Code_Badges/contributor%20(1).png" alt="GSSoC Contributor Badge" width="140" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="./Badges/Girl_Script_Summer_Of_Code_Badges/open_source_track.png" alt="Open Source Track Badge" width="140" /></td>
+    <td align="center"><img src="./Badges/Girl_Script_Summer_Of_Code_Badges/AI_AGENTS_TRACK.png" alt="AI Agents Track Badge" width="140" /></td>
+    <td align="center"><img src="./Badges/Girl_Script_Summer_Of_Code_Badges/contributor%20(1).png" alt="Contributor Badge" width="140" /></td>
+  </tr>
+  <tr>
+    <td align="center"><sub><b>Open Source Track</b></sub></td>
+    <td align="center"><sub><b>AI Agents Track</b></sub></td>
+    <td align="center"><sub><b>Contributor</b></sub></td>
+  </tr>
+</table>
 
 <h3 align="center">🧠 Nexus Spring of Code (NSoC)</h3>
-<p align="center">
-  <img src="./Badges/Nexus_Spring_Of_Code_Badges/Contributor_nsoc.png" alt="NSoC Contributor Badge" width="155" />
-  <img src="./Badges/Nexus_Spring_Of_Code_Badges/NSOC%201st%20badge.png" alt="NSoC 1st Badge" width="155" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="./Badges/Nexus_Spring_Of_Code_Badges/Contributor_nsoc.png" alt="NSoC Contributor Badge" width="155" /></td>
+    <td align="center"><img src="./Badges/Nexus_Spring_Of_Code_Badges/NSOC.png" alt="NSoC Badge" width="155" /></td>
+  </tr>
+  <tr>
+    <td align="center"><sub><b>Contributor</b></sub></td>
+    <td align="center"><sub><b>NSOC</b></sub></td>
+  </tr>
+</table>
 
 <h2 align="center">🧾 GitHub Profile Summary Cards</h2>
 <p align="center">
