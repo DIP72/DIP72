@@ -142,8 +142,3 @@
 <p align="center">
   If you are working on impactful ideas in software, AI, web, or cloud, I am open to collaborating.
 </p>
-
----
-<p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=DIP72&icon=5&color=6" alt="Profile Views" /></a>
-</p>
